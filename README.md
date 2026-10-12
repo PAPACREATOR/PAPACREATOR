@@ -24,6 +24,16 @@ A ideia é simples:
 
 👉 **Começa aqui:** [cerebro-parvo-](https://github.com/PAPACREATOR/cerebro-parvo-)
 
+## Livros
+
+Sou autor independente. Escrevo ficção, reflexão social, poesia e projetos criativos.
+
+- 📚 [Página de autor na Amazon](https://www.amazon.com.br/stores/author/B0DWNC2V5P)
+- 📖 [A Sociedade do Circo: Reflexões na Selva Moderna — Amazon](https://www.amazon.com.br/Sociedade-Circo-Reflex%C3%B5es-Selva-Moderna-ebook/dp/B0DVVNFQT8)
+- 📖 [Poesias da Alma — Amazon](https://www.amazon.com.br/gp/aw/d/B0DYN3289X/ref=tmm_pap_swatch_0)
+- 📖 [João, o Caminhante — Cordel d’Prata](https://cordeldeprata.pt/livraria/joao-o-caminhante-percecoes-de-um-demente-numa-sociedade-doente-que-escolheu-ser-livre-e-poeta-a-solta/)
+- ✍️ [Página de autor na Cordel d’Prata](https://cordeldeprata.pt/autores/pedro-coelho/)
+
 ## Apoiar o Nexus
 
 Se quiseres apoiar o desenvolvimento do Nexus, da documentação, dos testes e das demonstrações públicas, podes fazê-lo através do GitHub Sponsors.
@@ -43,3 +53,4 @@ Se quiseres apoiar o desenvolvimento do Nexus, da documentação, dos testes e d
 
 - GitHub: [@PAPACREATOR](https://github.com/PAPACREATOR)
 - Projeto principal: [Nexus / Cérebro Independente](https://github.com/PAPACREATOR/cerebro-parvo-)
+- Livros: [Amazon](https://www.amazon.com.br/stores/author/B0DWNC2V5P) · [Cordel d’Prata](https://cordeldeprata.pt/autores/pedro-coelho/)
