@@ -6,7 +6,7 @@ Escritor investigador e criador digital. Construo sistemas locais para criar, in
 
 - Sistemas **local-first** de criação e conhecimento
 - Automação prática para escrita, investigação e publicação
-- Fluxos com Markdown, Obsidian, SQLite, Python e ferramentas locais
+- Fluxos com Markdown, SQLite, Python e ferramentas locais
 - IA como assistente — nunca como autoridade final
 - Conteúdo: livros, crónicas, análise, vídeo, música e projetos multimédia
 
